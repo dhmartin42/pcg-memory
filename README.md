@@ -1,2 +1,2 @@
 # pcg-memory
-memory game from trice university's python course, modiied to use Arcade
+Memory game from tRice University's python course, modified to use python Arcade
